@@ -1,0 +1,1 @@
+Add your hero image at public/images/food-hero.png (recommended 1200x1200 or square).
